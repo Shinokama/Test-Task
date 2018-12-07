@@ -1,0 +1,7 @@
+C:\Users\shino\OneDrive\Документы\GitHub\Test-Task\TestTask\bin\Release\TestTask.exe.config
+C:\Users\shino\OneDrive\Документы\GitHub\Test-Task\TestTask\bin\Release\TestTask.exe
+C:\Users\shino\OneDrive\Документы\GitHub\Test-Task\TestTask\bin\Release\TestTask.pdb
+C:\Users\shino\OneDrive\Документы\GitHub\Test-Task\TestTask\obj\Release\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\shino\OneDrive\Документы\GitHub\Test-Task\TestTask\obj\Release\TestTask.exe
+C:\Users\shino\OneDrive\Документы\GitHub\Test-Task\TestTask\obj\Release\TestTask.pdb
+C:\Users\shino\OneDrive\Документы\GitHub\Test-Task\TestTask\obj\Release\TestTask.csprojAssemblyReference.cache
